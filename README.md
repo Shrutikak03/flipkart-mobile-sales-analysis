@@ -8,3 +8,6 @@ The main objective of this project is to analyze Flipkart’s mobile sales data 
 - Determine customer preferences based on memory, storage, and color variants.
 - Analyze discount strategies and their influence on total sales.
 - Present data-driven insights to help improve product positioning and marketing strategies on the platform.
+  
+## Dataset Used
+- <a href="https://github.com/Shrutikak03/Myntra_E-commerce_Dashboard/blob/main/Myntra_Mock_Dataset.xlsx">Dataset</a>
