@@ -10,4 +10,4 @@ The main objective of this project is to analyze Flipkart’s mobile sales data 
 - Present data-driven insights to help improve product positioning and marketing strategies on the platform.
   
 ## Dataset Used
-- <a href="https://github.com/Shrutikak03/Myntra_E-commerce_Dashboard/blob/main/Myntra_Mock_Dataset.xlsx">Dataset</a>
+- <a href="https://github.com/Shrutikak03/flipkart-mobile-sales-analysis/blob/main/Flipkart_mobile_brands_scraped_data.csv">Dataset</a>
